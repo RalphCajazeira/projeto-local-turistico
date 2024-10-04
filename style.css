@@ -1,0 +1,127 @@
+:root {
+  font-family: "Open Sans", sans-serif;
+  color: #1b1b1b;
+}
+
+* {
+  background-color: #f5f4f0;
+  padding: 0;
+  margin: 0;
+}
+
+.page {
+  box-sizing: border-box;
+  width: 1120px;
+  margin: 88px auto 48px;
+}
+
+.title {
+  margin-bottom: 40px;
+}
+
+.description {
+  margin-bottom: 40px;
+}
+
+.description img {
+  margin-bottom: 24px;
+}
+
+.description p {
+  padding: 0 20px;
+}
+
+img {
+  border-radius: 28px;
+}
+
+.divider {
+  border-bottom: 1px #d9d9d9 solid;
+  margin: 40px 0 64px;
+}
+
+.divider2 {
+  border-bottom: 1px #d9d9d9 solid;
+  margin: 40px 0 40px;
+}
+
+footer {
+  text-align: center;
+  margin: 48px;
+}
+
+.bluelist {
+  color: #0c51a7;
+}
+
+.history {
+  font-weight: bold;
+
+  margin-top: 30px;
+}
+
+.close {
+  text-align: center;
+}
+
+footer {
+  font-family: Alice, serif;
+}
+
+footer img {
+  vertical-align: middle;
+}
+
+/* Formatação Geral Figma */
+h1,
+h2,
+h3,
+.headline {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  margin-top: 20px;
+  font-size: 28px;
+}
+
+.headline {
+  color: #e1624f;
+  text-transform: uppercase;
+}
+paragraph {
+  color: #333333;
+  font-size: 16px;
+}
+p {
+  font-size: 16px;
+}
+
+.subtitle {
+  font-size: 16px;
+  font-style: italic;
+  text-align: center;
+}
+li {
+  margin-left: 40px;
+}
+li p {
+  margin: 0;
+}
+li::marker {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.listbox {
+  margin-bottom: 48px;
+}
